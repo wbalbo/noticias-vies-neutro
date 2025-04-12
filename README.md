@@ -1,6 +1,6 @@
-# 📰 Notícias com Vies Neutro - MVP
+# 📰 Notícias com Vies Neutro
 
-Um MVP simples que resume notícias brasileiras usando a API da OpenAI.  
+Um projeto simples que resume notícias brasileiras usando a API da OpenAI.  
 Atualmente suporta apenas **G1 (g1.globo.com)**.
 
 ## ✅ Funcionalidades
