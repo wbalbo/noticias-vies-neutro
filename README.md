@@ -86,7 +86,7 @@ frontend/
 
 - Suporte apenas para notícias do G1.
 - O extrator para o site da UOL foi comentado e requer scraping com suporte a JavaScript.
-- Projeto em fase inicial de MVP — não recomendado para produção.
+- Projeto em fase inicial pra aprendizado de React — não recomendado para produção.
 
 ---
 
